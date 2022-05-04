@@ -1,5 +1,8 @@
-### DAILY EXPENSE API
+### NODEJS - EXPRESS REST API TEMPLATE
 
-This app provides a RESTFUL API that enables all CRUD Operations for storing, updating, recording and analysis daily financial data input by a user. Data collected helps users to view their monthly budget and track their spending habits. They are able to identify areas they have overspent or are nearing their limit.
+This repository contains a simple NodeJS - Express Framework based API Template.
 
-The app is based on NodeJS with Express as the backend Framework
+## MIDDLEWARES USED
+
+1. bodyparser - to get contents of the http request body
+2. CORS - To enable cross origin resource sharing

@@ -1,7 +1,7 @@
 {
   "name": "daily-expense-api",
   "version": "1.0.0",
-  "description": "A REST Api to store, record and analyse daily expenses data to help in managing personal finances",
+  "description": "A NodeJS Express based template",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
