@@ -1,0 +1,12 @@
+{
+  "name": "daily-expense-api",
+  "version": "1.0.0",
+  "description": "A REST Api to store, record and analyse daily expenses data to help in managing personal finances",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Norman Munge",
+  "license": "ISC"
+}
